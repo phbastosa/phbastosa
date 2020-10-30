@@ -4,12 +4,12 @@
 - I develop algorithms aimed at direct and inverse problems in geoscience area. 
 - Working with seismic imaging, I have to do a lot of code to become a PRO.
 
-##### Social 
+### Social 📲 
 
 [![Linkedin](https://img.shields.io/badge/-Paulo%20Bastos-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-bastos14/)](https://www.linkedin.com/in/paulo-bastos14/)
 [![Mail](https://img.shields.io/badge/-pbastos@id.uff.br-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/paulo-bastos14/)](mailto:pbastos@id.uff.br)
 
-##### More about
+### More about 💡
 
  - 👨🏻‍💻 I really like to simulating things.
  - 📈 I'm working with seismic imaging and seismic inversion.
