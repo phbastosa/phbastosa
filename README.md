@@ -2,7 +2,7 @@
 
 - I'm an enthusiast of scientific computing.
 - I develop algorithms aimed at direct and inverse problems in geoscience area. 
-- Working with seismic imaging, I have to do a lot of code to become a PRO.
+- Working with seismic imaging, so I have to code a lot to become a PRO.
 
 ### Social 📲 
 
