@@ -17,7 +17,6 @@
  - ⚡ Fun fact: I love to dance 🕺 and to play basquetball 🏀.
  
  ### Languages and Tools 🛠 
-
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -25,6 +24,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pbastosA">
 
 ### Visitors count 👀 
 
