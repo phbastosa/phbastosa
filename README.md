@@ -13,7 +13,7 @@
 
  - 👨🏻‍💻 I really like to simulating things.
  - 📈 I'm working with seismic imaging and seismic inversion.
- - 👨🏻‍🎓 Currently studying about Q factor tomography.  
+ - 👨🏻‍🎓 Currently studying about seismic modeling and processing.  
  - ⚡ Fun fact: I love to dance 🕺 and to play basquetball 🏀.
  
  ### Languages and Tools 🛠 
