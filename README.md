@@ -14,7 +14,7 @@
  - 👨🏻‍💻 I really like to simulating things.
  - 📈 I'm working with seismic imaging and seismic inversion.
  - 👨🏻‍🎓 Currently studying about seismic modeling and processing.  
- - ⚡ Fun fact: I love to dance 🕺 and to play basquetball 🏀.
+ - ⚡ Fun fact: I love to dance 🕺 and to play basketball 🏀.
  
  ### Languages and Tools 🛠 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
