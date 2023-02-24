@@ -25,7 +25,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbastosA&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phbastosa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visitors count 👀 
 
