@@ -11,9 +11,9 @@
 
 ### More about 💡
 
- - 👨🏻‍💻 I really like to simulating things.
- - 📈 I'm working with seismic imaging and seismic inversion.
- - 👨🏻‍🎓 Currently studying about 3D seismic tomography.  
+ - 👨🏻‍💻 I'm really into simulating things.
+ - 📈 I'm working with seismic imaging and seismic inversion at [GISIS](https://github.com/GISIS-UFF).
+ - 👨🏻‍🎓 Currently studying about 3D first arrival seismic tomography.  
  - ⚡ Fun fact: I love to dance 🕺 and to play basketball 🏀.
  
  ### Languages and Tools 🛠 
