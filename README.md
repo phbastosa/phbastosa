@@ -6,7 +6,7 @@
 
 ### Social 📲 
 
-[![Linkedin](https://img.shields.io/badge/-Paulo%20Bastos-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-bastos14/)](https://www.linkedin.com/in/paulo-bastos14/)
+[![Linkedin](https://img.shields.io/badge/-Paulo%20Bastos-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-bastos14/)](https://www.linkedin.com/in/phbastosa/)
 [![Mail](https://img.shields.io/badge/-pbastos@id.uff.br-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/paulo-bastos14/)](mailto:pbastos@id.uff.br)
 
 ### More about 💡
